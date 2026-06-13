@@ -21,9 +21,9 @@ railway-crossing-safety-system/
 
 ## Motivation
 
-This project was initiated as a self-directed learning exercise to develop a systems engineering mindset in the context of **safety-critical railway automation** — a field where the cost of failure is measured not in data loss but in human lives.
+This project was initiated as a self-directed learning exercise to develop a systems engineering mindset in the context of **safety-critical railway automation**, a field where the cost of failure is measured not in data loss but in human lives.
 
-The goal is not to build a full production system, but to practice the **V-Model development process** from requirements specification through architecture design to simulated validation — the core workflow of a Systems Engineer in railway automation.
+The goal is not to build a full production system, but to practice the **V-Model development process** from requirements specification through architecture design to simulated validation, the core workflow of a Systems Engineer in railway automation.
 
 ---
 
@@ -98,7 +98,7 @@ right-side verification artifact (test cases, integration scenarios, validation 
 ## Author
 
 **Baurel Kaptouom**  
-M.Eng. Elektrotechnik & Informationstechnik — HAWK Göttingen  
+M.Eng. Elektrotechnik & Informationstechnik, HAWK Göttingen  
 [GitHub](https://github.com/Jodel-Kaptouom)
 
 *This project is part of a self-directed learning path toward
